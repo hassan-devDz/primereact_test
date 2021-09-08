@@ -1,13 +1,12 @@
 {
     "name": "@hassan-devDz/primereact_test",
-    "version": "7.0.1-SNAPSHOT",
+    "version": "7.0.1",
     "homepage": "https://github.com/hassan-devDz/primereact_test",
     "repository": {
         "type": "git",
         "url": "https://github.com/hassan-devDz/primereact_test.git"
     },
     "license": "MIT",
-
     "keywords": [
         "primereact",
         "react",
